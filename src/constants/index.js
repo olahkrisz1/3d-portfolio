@@ -173,12 +173,12 @@ export const socialLinks = [
   {
     name: "GitHub",
     iconUrl: github,
-    link: "https://github.com/YourGitHubUsername",
+    link: "https://github.com/olahkrisz1",
   },
   {
     name: "LinkedIn",
     iconUrl: linkedin,
-    link: "https://www.linkedin.com/in/YourLinkedInUsername",
+    link: "https://www.linkedin.com/in/krisztian-olah-20291327a",
   },
 ];
 
@@ -189,46 +189,46 @@ export const projects = [
     name: "Amazon Price Tracker",
     description:
       "Developed a web application that tracks and notifies users of price changes for products on Amazon, helping users find the best deals.",
-    link: "https://github.com/adrianhajdin/pricewise",
+    link: "https://github.com/olahkrisz1/pricetracker",
   },
   {
     iconUrl: threads,
     theme: "btn-back-green",
-    name: "Full Stack Threads Clone",
+    name: "Nike Landing Page",
     description:
-      'Created a full-stack replica of the popular discussion platform "Threads," enabling users to post and engage in threaded conversations.',
-    link: "https://github.com/adrianhajdin/threads",
+      "Created a single page Nike shoes website using React, ViteJs, and TailwindCSS .",
+    link: "https://tailwind-nike-nu.vercel.app",
   },
   {
     iconUrl: car,
     theme: "btn-back-blue",
-    name: "Car Finding App",
+    name: "Beaches Travel App",
     description:
-      "Designed and built a mobile app for finding and comparing cars on the market, streamlining the car-buying process.",
-    link: "https://github.com/adrianhajdin/project_next13_car_showcase",
+      "Designed and built a single page travel website for finding your dream holiday, using React .",
+    link: "https://travel-react-iota.vercel.app/",
   },
   {
     iconUrl: snapgram,
     theme: "btn-back-pink",
-    name: "Full Stack Instagram Clone",
+    name: "YouTube Clone",
     description:
-      "Built a complete clone of Instagram, allowing users to share photos and connect with friends in a familiar social media environment.",
-    link: "https://github.com/adrianhajdin/social_media_app",
+      "Built a complete clone of YouTube, allowing users to search for and watch videos.",
+    link: "https://youtube-clone-ecru-alpha.vercel.app/",
   },
   {
     iconUrl: estate,
     theme: "btn-back-black",
-    name: "Real-Estate Application",
+    name: "Full Stack MERN Social Application",
     description:
-      "Developed a web application for real estate listings, facilitating property searches and connecting buyers with sellers.",
-    link: "https://github.com/adrianhajdin/projects_realestate",
+      "Developed a web application for commmunity of coders where they can post and answer questions to each other",
+    link: "https://github.com/olahkrisz1/MERN-APPLICATION",
   },
   {
     iconUrl: summiz,
     theme: "btn-back-yellow",
-    name: "AI Summarizer Application",
+    name: "Weather Application",
     description:
-      "App that leverages AI to automatically generate concise & informative summaries from lengthy text content, or blogs.",
-    link: "https://github.com/adrianhajdin/project_ai_summarizer",
+      "App that shows weather details by searched cities using OpenWeather API",
+    link: "https://weather-app-zeta-ivory.vercel.app/",
   },
 ];
